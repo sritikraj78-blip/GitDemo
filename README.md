@@ -1,2 +1,2 @@
 # GitDemo
-Git demo 
+Git demo for Learning
